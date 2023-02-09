@@ -1,0 +1,1 @@
+print ("\n XXXXX" , "\n X   X" , "\n X   X" , "\n X   X" , "\n XXXXX")
